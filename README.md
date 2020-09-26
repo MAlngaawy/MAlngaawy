@@ -1,5 +1,4 @@
-### Hi there 👋
-#### I'm Mohammed Alngaawy
+### Hi there, I'm Mohammed 👋
 <!--
 **MAlngaawy/MAlngaawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
