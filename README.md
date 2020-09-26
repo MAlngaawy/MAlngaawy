@@ -3,7 +3,9 @@
 <!--
 **MAlngaawy/MAlngaawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![intro image](https://amfaisal.com/wp-content/uploads/2019/08/developer-gif.gif)
+<p align="center">
+  <img src="https://amfaisal.com/wp-content/uploads/2019/08/developer-gif.gif">
+</p>
 
 - 🔭 I’m currently working on Freelancing
 - 🌱 I’m currently learning more JavaScript and Frontend tools
